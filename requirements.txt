@@ -98,7 +98,7 @@ six==1.14.0
 statsmodels==0.11.0
 streamlit==0.53.0
 tensorboard==2.1.0
-tensorflow==1.5.0
+tensorflow==2.5.1
 tensorflow-estimator==2.1.0
 tensorflow-tensorboard==1.5.1
 termcolor==1.1.0
